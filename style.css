@@ -1,14 +1,14 @@
-.narcissus{
+#narcissus{
   height: 250px;
-  width: auto;
+  width: 250px;
 }
 
-.haystack{
+#haystack{
   height: 250px;
-  width: auto;
+  width: 250px;
 }
 
-.starryNight{
+#starryNight{
   height: 250px;
-  width: auto;
+  width: 250px;
 }
