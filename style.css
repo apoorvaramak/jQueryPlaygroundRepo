@@ -1,14 +1,4 @@
-#painting1{
+img {
   height: 250px;
-  width: 250px;
-}
-
-#painting2{
-  height: 250px;
-  width: 250px;
-}
-
-#painting3{
-  height: 250px;
-  width: 250px;
+  width: auto; 
 }
