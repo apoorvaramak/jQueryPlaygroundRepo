@@ -14,7 +14,7 @@ $(document).ready(function(){
     });
 
   $("img").click(function(){
-      $("<span>Huge</span>").appendTo("p");
+      $("<span> nice </span>").appendTo("p");
       //alert("The image are unhidden");
     });
 
