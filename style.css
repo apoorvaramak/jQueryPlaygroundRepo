@@ -1,4 +1,10 @@
 img {
   height: 250px;
-  width: auto; 
+  width: auto;
+}
+
+
+#paintingdescrip1{
+  width: 66%;
+  font-family: "Lucida Console", Courier, monospace;
 }
