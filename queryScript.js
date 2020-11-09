@@ -9,7 +9,7 @@ $(document).ready(function(){
       alert("The image are unhidden");
     });
 
-  $("#buttonTwo").click(function(){
+  $("#buttonThree").click(function(){
       $("p").toggleClass("larger");
       alert("The image are unhidden");
     });
