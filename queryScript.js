@@ -11,8 +11,13 @@ $(document).ready(function(){
 
   $("#buttonThree").click(function(){
       $("p").toggleClass("larger");
-      alert("The image are unhidden");
     });
+
+  $("img").click(function(){
+      $("<span>Huge</span>").appendTo("p");
+      //alert("The image are unhidden");
+    });
+
 
 
 });
