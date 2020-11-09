@@ -1,4 +1,9 @@
-$("img").click(function(){
+$("#buttonOne").click(function(){
     $("img").hide();
-    alert("The paragraph was clicked.");
+    alert("The images are hidden");
   });
+
+  $("#buttonTwo").click(function(){
+      $("img").show();
+      alert("The image are unhidden");
+    });
